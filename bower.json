@@ -1,0 +1,11 @@
+{
+  "name": "collab",
+  "description": "collab",
+  "main": "server/server.js",
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "dependencies": {
+    "angular": "latest"
+  }
+}

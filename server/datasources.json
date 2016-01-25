@@ -1,0 +1,19 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongodb": {
+    "host": "127.0.0.1",
+    "port": "27017",
+    "database": "collab",
+    "name": "mongodb",
+    "connector": "mongodb"
+  },
+  "file": {
+    "name": "file",
+    "connector": "loopback-component-storage",
+    "provider": "filesystem",
+    "root": "slcstorage"
+  }
+}
